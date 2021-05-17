@@ -2,7 +2,7 @@
 
 > install gecko driver from https://github.com/mozilla/geckodriver
 
-> edit ig credentials and target account on `autolike.py`
+> edit ig credentials and target account on autolike.py
 
 ## Create virtual environment
 ```
