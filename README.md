@@ -1,4 +1,4 @@
-# Instagram Like Bot
+# Instagram Auto-Like Bot
 
 > install gecko driver from https://github.com/mozilla/geckodriver
 
